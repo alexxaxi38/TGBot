@@ -2,7 +2,7 @@
 
 ob_start();
 
-$API_KEY = 'توکن';
+$API_KEY = '7252640795:AAEHIU8nmUIUN1m3OQJj2JjMYAndBhSa8TM';
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
